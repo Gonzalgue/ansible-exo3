@@ -6,4 +6,4 @@ services:
     ports:
     - 5000:80
     volumes:
-    - ansible-exo3/htdocs:/usr/local/apache2/htdocs
+    - ansible-exo3/htdocs:ansible-exo3/htdocs
